@@ -1,0 +1,24 @@
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.0.1)
+
+2022-12-29T20:36:49.723+08:00  INFO 75644 --- [           main] com.example.orm.OrmApplication           : Starting OrmApplication v0.0.1-SNAPSHOT using Java 19.0.1 with PID 75644 (/Users/raybon/Java/orm/target/orm-0.0.1-SNAPSHOT.jar started by raybon in /Users/raybon/Java/orm/target)
+2022-12-29T20:36:49.727+08:00  INFO 75644 --- [           main] com.example.orm.OrmApplication           : No active profile set, falling back to 1 default profile: "default"
+2022-12-29T20:36:51.123+08:00  INFO 75644 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8091 (http)
+2022-12-29T20:36:51.141+08:00  INFO 75644 --- [           main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-12-29T20:36:51.142+08:00  INFO 75644 --- [           main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.4]
+2022-12-29T20:36:51.243+08:00  INFO 75644 --- [           main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-12-29T20:36:51.245+08:00  INFO 75644 --- [           main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1444 ms
+2022-12-29T20:36:52.030+08:00  INFO 75644 --- [           main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8091 (http) with context path ''
+2022-12-29T20:36:52.054+08:00  INFO 75644 --- [           main] com.example.orm.OrmApplication           : Started OrmApplication in 2.883 seconds (process running for 3.423)
+2022-12-29T20:36:53.654+08:00  INFO 75644 --- [nio-8091-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-12-29T20:36:53.654+08:00  INFO 75644 --- [nio-8091-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-12-29T20:36:53.655+08:00  INFO 75644 --- [nio-8091-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2022-12-29T20:36:53.706+08:00  INFO 75644 --- [nio-8091-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2022-12-29T20:36:54.108+08:00  INFO 75644 --- [nio-8091-exec-1] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@2c4e207e
+2022-12-29T20:36:54.110+08:00  INFO 75644 --- [nio-8091-exec-1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
